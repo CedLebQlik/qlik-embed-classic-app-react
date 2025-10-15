@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  flex: 1 1 auto;
+  flex-direction: column;
+  align-items: stretch;
+  width: 1200px;
+}
+
+.viz {
+  height: 800px;
+  border: 1px solid #bbb;
+  flex-grow: 1;
+  border-radius: 3px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  box-sizing: border-box;
+  overflow: auto;
+  position: relative;
+}

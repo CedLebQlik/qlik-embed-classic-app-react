@@ -13,4 +13,4 @@ After cloning this repository, run `npm install`.
 
 ## Execution
 
-Launch `npm run dev` to start the webapp?
+Launch `npm run dev` to start the webapp.
